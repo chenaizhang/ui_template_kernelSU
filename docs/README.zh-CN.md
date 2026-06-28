@@ -30,8 +30,8 @@ Kernel Style UI Kit 是一个基于 KernelSU Manager 界面风格整理而来的
 1. 克隆项目：
 
 ```bash
-git clone https://github.com/chenaizhang/ui_template_kernelSU.git
-cd ui_template_kernelSU
+git clone https://github.com/chenaizhang/Kernel-Style-UI-Kit.git
+cd Kernel-Style-UI-Kit
 ```
 
 2. 使用 Android Studio 打开项目，等待 Gradle 同步完成。

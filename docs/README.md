@@ -30,8 +30,8 @@ Currently retained practical features include:
 1. Clone the project:
 
 ```bash
-git clone https://github.com/chenaizhang/ui_template_kernelSU.git
-cd ui_template_kernelSU
+git clone https://github.com/chenaizhang/Kernel-Style-UI-Kit.git
+cd Kernel-Style-UI-Kit
 ```
 
 2. Open the project with Android Studio and wait for Gradle sync to finish.
