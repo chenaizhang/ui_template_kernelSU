@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="home">首頁</string>
+    <string name="settings">設定</string>
+    <string name="about">關於</string>
+    <string name="send_log">傳送日誌</string>
+    <string name="settings_check_update">檢查更新</string>
+    <string name="settings_check_update_summary">開啟本應用程式時，自動檢查更新</string>
+    <string name="save_log">儲存日誌</string>
+    <string name="confirm">確認</string>
+    <string name="log_saved">已儲存運作日誌</string>
+    <string name="processing">處理中…</string>
+    <string name="settings_theme">主題</string>
+    <string name="settings_theme_mode_system">跟隨系統</string>
+    <string name="settings_theme_mode_light">淺色</string>
+    <string name="settings_theme_mode_dark">深色</string>
+    <string name="settings_theme_summary">選擇應用的主題模式。</string>
+    </resources>

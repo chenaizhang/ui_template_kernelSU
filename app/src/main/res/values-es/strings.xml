@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="home">Inicio</string>
+    <string name="settings">Ajustes</string>
+    <string name="about">Acerca de</string>
+    <string name="send_log">Enviar registros</string>
+    <string name="save_log">Guardar registros</string>
+    <string name="settings_check_update">Comprobar actualización</string>
+    <string name="settings_check_update_summary">Comprobación automática de actualizaciones al abrir la aplicación</string>
+    </resources>
